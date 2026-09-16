@@ -1,0 +1,12 @@
+GTZAN/
+features/
+models/
+venv/
+__pycache__/
+*.npz
+*.keras
+*.pt
+*.wav
+*.zip
+kaggle.json
+.DS_Store

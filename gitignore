@@ -1,0 +1,21 @@
+# Dataset (1.2GB - download from Kaggle instead)
+GTZAN/
+archive.zip
+
+# Generated features (regenerate by running the scripts)
+features/
+*.npz
+
+# Trained models
+models/
+*.keras
+*.pt
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
