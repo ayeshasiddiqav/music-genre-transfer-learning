@@ -122,5 +122,4 @@ predictions with local models.
 
 ## Credits
 
-Builds on my professor's original CNN/ResNet/VGG16 study. Dataset: GTZAN
-(Tzanetakis & Cook, 2002).
+Dataset: GTZAN (Tzanetakis & Cook, 2002).
