@@ -3,8 +3,6 @@
 A comparative study of CNN, attention, capsule, transfer-learning and transformer
 architectures for music genre classification, with leakage-safe evaluation.
 
-Extends prior work by my professor, who reported 91% accuracy using CNN, ResNet
-and VGG16 on mel-spectrograms.
 
 ## Results
 
